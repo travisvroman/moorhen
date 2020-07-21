@@ -3,3 +3,9 @@
 document.onload = () => {
     console.log( "Loaded!" );
 }
+
+export class TestClass {
+    public static Rubbish() {
+        console.log( "LOL" );
+    }
+}
