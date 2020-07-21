@@ -1,0 +1,24 @@
+{
+  "name": "moorhen",
+  "version": "0.1.1",
+  "description": "A 3D Typescript-Based Game Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./node_modules/typescript/bin/tsc",
+    "publish": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travisvroman/moorhen.git"
+  },
+  "author": "Travis Vroman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travisvroman/moorhen/issues"
+  },
+  "homepage": "https://github.com/travisvroman/moorhen#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}

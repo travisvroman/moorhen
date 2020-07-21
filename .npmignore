@@ -1,0 +1,14 @@
+.vscode/
+assets/
+images/
+node_modules/
+paytable/
+ref/
+scripts/
+src/
+test/
+www/
+.gitlab-ci.yml
+tsconfig.json
+tslint.json
+gulpfile.js
